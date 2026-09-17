@@ -2,7 +2,9 @@
 
 I mainly dabble with ***Systems/Cloud Engineering*** in my day-to-day, both professionally and not.
 
-I have way too many private repositories that should be cleaned up to see the light of day instead of rotting in the shadows, but it is what it is.
+Most of my public repositories are related to game modding, mainly _Project Zomboid_ nowadays.
+
+I have way too many private repos that should be cleaned up to see the light of day instead of rotting in the shadows, but it is what it is.
 
 ## Metrics
 
